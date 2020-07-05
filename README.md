@@ -1,4 +1,4 @@
-# Finite State Video Player
+# Finite State Machine Video Player
 
 A simple implementation of finite state machine in javascript using React and XState
 
